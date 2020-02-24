@@ -1,0 +1,48 @@
+body {
+    background-color: #cabfb6;
+    font-family: Open Sans;
+}
+
+.main {
+    background: white;
+    margin: auto;
+    width: 700px;
+    padding: 10px 100px;
+}
+
+.explore {
+    background-color: #c9793b;
+    border: solid #c9793b;
+    padding: 10px 25px;
+    border-radius: 5px; 
+    margin-bottom: 20px;
+}
+
+.center {
+    text-align: center;
+}
+
+ h2 {
+     text-align: left;
+     font-family: 'Proza Libre';
+     font-size: 20px;
+ }
+
+ a {
+     text-decoration: none;
+     color: black;
+ }
+
+ .android {
+    background-color: #a4c93b;
+    font-size: 20px;
+    padding: 5px 30px;
+    border-radius: 5px;
+ }
+ 
+ .apple {
+    background-color: #b6bcca;
+    font-size: 20px;
+    padding: 5px 30px;
+    border-radius: 5px;
+ }
